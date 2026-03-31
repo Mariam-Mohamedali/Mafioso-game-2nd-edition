@@ -88,5 +88,5 @@ Open `data.js` and add a new object to the `CASES` array. You simply define the 
 
 ## 👩‍💻 Author
 
-Maded 
+Made
 by Mariam Mohamed.
