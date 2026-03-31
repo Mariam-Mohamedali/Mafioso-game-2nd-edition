@@ -2,7 +2,7 @@
 
 > **A high-stakes, modern web-based detective game built with Vanilla JavaScript, HTML5, and CSS3.**
 
-![Mafioso Game Preview](./preview.webp) *(Add your own screenshot here!)*
+![Mafioso Game Preview](./preview.webp)
 
 **Mafioso** is a fast-paced, immersive puzzle game where you play the lead detective. Dive into mysterious crime scenes, analyze crucial evidence, and find the real culprit before it's too late. With dynamic UI and an immediate win/lose system, every choice matters.
 
