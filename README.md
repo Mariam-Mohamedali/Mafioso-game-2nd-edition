@@ -84,3 +84,9 @@ Open `data.js` and add a new object to the `CASES` array. You simply define the 
 ---
 
 *“There are two people left in this room. One of them is a liar. Who is the Mafioso?”*
+---
+
+## 👩‍💻 Author
+
+Maded 
+by Mariam Mohamed.
